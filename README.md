@@ -1,5 +1,5 @@
 # Contao Drift Messaging Extension
-Drift Messagging Software Backend and Frontend integration for Contao, a Open Source CMS
+Drift Messaging Software Backend and Frontend integration for Contao, a Open Source CMS
 
 ## How to use?
 With the extension there come two templates **be_drift.html5** and **drift_default.html5**. Create a new template and replace the ```$DriftID``` variable content.
