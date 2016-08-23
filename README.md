@@ -10,3 +10,5 @@ With the extension there come two templates **be_drift.html5** and **drift_defau
 
 ## Any other issues or trouble shooting
 Just go to https://github.com/wschwaiger/qwat-drift/issues and let us know what is missing or not working.
+
+## Help us to keep this extension alive - [Donate via PayPal](https://www.paypal.me/wschwaiger)
